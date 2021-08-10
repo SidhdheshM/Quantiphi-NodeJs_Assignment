@@ -5,7 +5,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cornflourblue/node-mysql-registration-login-api.git"
+        "url": "https://github.com/SidhdheshM/Quantiphi-NodeJs_Assignment/tree/main/Basic_User_System"
     },
     "scripts": {
         "start": "node ./server.js",
