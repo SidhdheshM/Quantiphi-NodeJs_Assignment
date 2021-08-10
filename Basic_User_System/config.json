@@ -1,7 +1,7 @@
 ﻿{
     "database": {
         "host": "localhost",
-        "port": 4000,
+        "port": 80,
         "user": "root",
         "password": "1234",
         "database": "node-mysql-registration-login-api"
